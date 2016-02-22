@@ -1,3 +1,2 @@
-# scrapeexampledemo
-Demo app for scraping a web page
-readme
+# Widget Service API
+This is the demo app for scrape console
